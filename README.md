@@ -144,6 +144,29 @@ The diagram below represents the conceptual relationship between the main applic
 
 ---
 
+## Key Challenges
+
+- Translating manual business processes into structured application workflows
+- Maintaining consistent project, SLA, document, and financial data
+- Designing role-based access across multiple user types
+- Integrating PHP applications with Oracle Database through OCI8
+- Preserving revision history and activity traceability
+- Presenting complex operational data in a dashboard that remains easy to use
+- Protecting confidential enterprise information during documentation
+
+---
+
+## Design Decisions
+
+- Oracle Database was used as the central system of record.
+- PHP handled backend processing, validation, workflow logic, and API responses.
+- Role-based access separated viewing, input, administration, and super-administration functions.
+- Project history and document revisions were stored separately to preserve traceability.
+- SLA calculations were presented as dedicated monitoring components.
+- Dashboard components were designed for operational and management users.
+
+---
+
 ## Project Outcomes
 
 - Centralized previously distributed monitoring information
