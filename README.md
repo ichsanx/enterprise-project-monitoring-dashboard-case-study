@@ -130,6 +130,8 @@ The diagram below represents the conceptual relationship between the main applic
 
 ## Screenshots
 
+> The visuals below are anonymized portfolio recreations based on the implemented system. Synthetic names, values, and branding are used to protect confidential company information.
+
 ### Dashboard Overview
 
 ![Dashboard Overview](docs/screenshots/dashboard-overview.png)
@@ -141,6 +143,14 @@ The diagram below represents the conceptual relationship between the main applic
 ### Project Detail, Approval Flow, and SLA History
 
 ![Project Detail](docs/screenshots/project-detail.png)
+
+### User Management and Role-Based Access
+
+![User Management](docs/screenshots/user-management.png)
+
+### Activity Log and Audit Trail
+
+![Activity Log](docs/screenshots/activity-log.png)
 
 ---
 
