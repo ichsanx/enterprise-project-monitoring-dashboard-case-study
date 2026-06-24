@@ -16,7 +16,7 @@ This repository presents an anonymized portfolio case study of an enterprise pro
 
 The original application was developed for an internal enterprise environment. Original source code, credentials, customer information, internal infrastructure details, confidential documents, and actual financial records are not included.
 
-> **Visual note:** The screenshots in this repository are anonymized portfolio recreations based on the implemented application. They use synthetic names and values to protect confidential information.
+> **Visual note:** The visuals below are anonymized portfolio recreations based on the implemented system. They use synthetic names, values, and branding to protect confidential company information.
 
 ---
 
