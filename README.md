@@ -218,7 +218,9 @@ enterprise-project-monitoring-dashboard-case-study/
     └── screenshots/
         ├── dashboard-overview.png
         ├── project-monitoring.png
-        └── project-detail.png
+        ├── project-detail.png
+        ├── user-management.png
+        └── activity-log.png
 ```
 
 ---
